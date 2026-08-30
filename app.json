@@ -9,7 +9,6 @@
     "newArchEnabled": true,
     "android": { "package": "com.nouvelage.app" },
     "ios": { "bundleIdentifier": "com.nouvelage.app", "supportsTablet": false },
-    "plugins": ["expo-router", "expo-font"],
-    "extra": { "eas": { "projectId": "SET_BY_EAS_INIT" } }
+    "plugins": ["expo-router", "expo-font"]
   }
 }
